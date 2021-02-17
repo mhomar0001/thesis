@@ -1,7 +1,5 @@
 
 
-/// ZIHAD_12-13, CSTE, NSTU, ASH1301014M..
-
 #include<iostream>
 #include<cstdio>
 #include<queue>
